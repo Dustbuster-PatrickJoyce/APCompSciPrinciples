@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Patrick Joyce's Website!</title>
+Patrick Joyce's Website!
 </head>
 <body>
 
